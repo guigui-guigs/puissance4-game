@@ -1,0 +1,11 @@
+{
+  "name": "puissance4-online",
+  "version": "1.0.0",
+  "description": "Jeu de Puissance 4 multijoueur en ligne sans compte avec invitation par lien magique",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["connect4", "puissance4", "multiplayer", "webrtc", "game"],
+  "author": "guigui-guigs",
+  "license": "MIT"
+}
